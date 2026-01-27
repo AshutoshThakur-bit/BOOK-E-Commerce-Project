@@ -5,8 +5,8 @@ const Cards = ({item}) => {
   return (<>
   <div className="mt-4 my-3 p-3 hover:scale-105 duration-300 ">
     <div className="card bg-base-100 w-92 shadow-xl">
-  <figure>
-    <img
+  <figure className="h-[60vh] w-full object-cover ">
+    <img className='h-[50vh] w-80 '
       src={item.image}
       alt="Books" />
   </figure>

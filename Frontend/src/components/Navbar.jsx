@@ -57,7 +57,7 @@ const Navbar = () => {
         <li><a href="/">Home</a></li>
       <li><a href="/course">Course</a></li>
       <li><a href="/Contact">Contact</a></li>
-      <li><a href="/About">About</a></li>
+      <li><a href="/about">About</a></li>
       </ul>
 
     </div>
@@ -68,7 +68,7 @@ const Navbar = () => {
     <li><a href="/">Home</a></li>
       <li><a href="/course">Course</a></li>
       <li><a href="/Contact">Contact</a></li>
-      <li><a href="/About">About</a></li>
+      <li><a href="/about">About</a></li>
     </ul>
   </div>
   <div className ="hidden md:block">

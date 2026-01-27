@@ -6,10 +6,9 @@ const Banner = () => {
         <div className="max-w-screen-2xl container max-auto md:px-20 px-2 flex flex-col md:flex-row my-10">
             <div className="order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32">
                 <div className="space-y-12">
-                    <h1 className="text-4xl font-bold">Hello, welcome here to learn something <span className="text-pink-500">new everyday !!!</span></h1>
+                    <h1 className="text-4xl font-bold">Welcome to Your Daily  <span className="text-pink-500">Reading Destination 📚</span></h1>
                     <p className="text-xl font-semibold ">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, deserunt dicta harum ipsa autem voluptatum quisquam iusto accusantium totam neque.
-                    </p>
+                        Discover something new every day with our carefully curated collection of books. From bestselling novels and academic references to inspiring self-help and children’s stories, we bring knowledge and imagination to your doorstep. Explore, learn, and grow—one book at a time.  </p>
 
                     <label className="input validator w-full">
                         <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g strokeLinejoin="round" strokeLinecap="round" strokeWidth="2.5" fill="none" stroke="currentColor"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></g></svg>
