@@ -167,8 +167,6 @@ Contributions are welcome!
 5. Create a Pull Request
 
 
----
-
 ## 👨‍💻 Author
 
 **Ashutosh Thakur**
